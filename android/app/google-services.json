@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "846952373363",
+    "firebase_url": "https://campusgo-7fc57-default-rtdb.firebaseio.com",
+    "project_id": "campusgo-7fc57",
+    "storage_bucket": "campusgo-7fc57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846952373363:android:23eba0cb018a57a4ffde06",
+        "android_client_info": {
+          "package_name": "com.example.campus_go_drivers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846952373363-uffusnqj2b220tl06ngu0875jdhtn36p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ7ZkzSDawETIza8EnzK6H5RJjinmlW7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846952373363-mlsg4vkiocdbdmuoirq1r15e6uohsv44.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846952373363-gu6h9ltmma1r9cufuamni65ljvmrnqcn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.campusgo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846952373363:android:a3aa30000584a951ffde06",
+        "android_client_info": {
+          "package_name": "com.example.campusgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846952373363-uffusnqj2b220tl06ngu0875jdhtn36p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ7ZkzSDawETIza8EnzK6H5RJjinmlW7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846952373363-mlsg4vkiocdbdmuoirq1r15e6uohsv44.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846952373363-gu6h9ltmma1r9cufuamni65ljvmrnqcn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.campusgo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
